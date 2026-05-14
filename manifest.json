@@ -2,20 +2,21 @@
   "name": "CalcPro - Scientific Calculator",
   "short_name": "CalcPro",
   "description": "Complete Scientific Calculator with Graph, Matrix, Physics & More",
-  "start_url": "/",
+  "start_url": "/calculator-pro/",
+  "scope": "/calculator-pro/",
   "display": "standalone",
   "background_color": "#0f0f13",
   "theme_color": "#7c3aed",
-  "orientation": "portrait",
+  "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/calculator-pro/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/calculator-pro/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
